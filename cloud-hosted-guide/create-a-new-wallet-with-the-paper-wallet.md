@@ -1,9 +1,9 @@
 # Create a New Wallet with the Paper Wallet
 
-We strongly recommend creating a new wallet using the official BTCP paper wallet or the full node wallet.
+We strongly recommend creating a new wallet using the official BTCP paper wallet or the Electrum wallet.
 
 {% hint style="info" %}
-Important: You must store the information generated from your wallet offline, securely. Do not share your private keys with anyone. Do not store them in your email or computer. Keep them offline. 
+⚠️ Important: You must store the information generated from your wallet offline & securely. Do not share your private keys with anyone. Do not store them in your email or computer.  ⚠️
 {% endhint %}
 
 ## **Create Wallet Using the Paper Wallet**
