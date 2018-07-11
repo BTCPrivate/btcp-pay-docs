@@ -10,5 +10,7 @@
   * [Getting Started](self-hosted-guide/getting-started.md)
   * [Digital Ocean Server Setup](self-hosted-guide/digital-ocean-server-setup.md)
   * [Connecting to your Server](self-hosted-guide/connecting-to-your-server.md)
-  * [Bitcore Installation](self-hosted-guide/bitcore-installation.md)
+  * [BTCP Store Server Installation](self-hosted-guide/bitcore-installation.md)
+  * [Starting the Server](self-hosted-guide/testing-the-new-installation.md)
+  * [Run service with systemctl](self-hosted-guide/run-service-with-systemctl.md)
 

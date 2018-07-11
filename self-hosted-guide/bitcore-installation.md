@@ -1,8 +1,8 @@
 ---
-description: 'Javascript full-node,bitcore &  btcpd daemon.'
+description: 'Javascript full-node, bitcore &  btcpd daemon.'
 ---
 
-# Bitcore Installation
+# BTCP Store Server Installation
 
 ## Clone the BTCP Bitcore installer
 
@@ -22,4 +22,6 @@ The installer will install everything you need to run the store demo application
 ```
 
 ![](../.gitbook/assets/setup.gif)
+
+Once everything is finished you should be ready to do a few tests to make sure everything is running properly.
 
