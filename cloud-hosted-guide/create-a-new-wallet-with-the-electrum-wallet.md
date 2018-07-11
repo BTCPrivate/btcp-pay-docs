@@ -7,9 +7,9 @@
 Create a new Electrum wallet address and  obtain the Xpub by clicking on:   
 wallet -&gt; information.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 and then copying the Xpub from there:
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 

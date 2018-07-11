@@ -4,21 +4,21 @@
 
 Login to your Digital Ocean account and click create then select Droplet. 
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Choose an Image. BTCP is currently optimize to run on Ubuntu with 2 GB of memory for $10/month. 
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
   
 Choose a location closer to where most of your buyers are from.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
   
 Select IPv6 and Monitoring. 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ## Add your SSH Key to allow remote login to this server. 
 
@@ -44,7 +44,7 @@ Download GIT from here:
 
  Go to Windows **Start menu**  type Git Bash
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
   
 Run the following command and follow the prompts
@@ -53,7 +53,7 @@ Run the following command and follow the prompts
  ssh-keygen
 ```
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 Enter a name for your keys, then enter a passphrase, they will be saved on your user folder  ~/  by default. Its a good practice to move them to  ~/.ssh
 
@@ -79,5 +79,5 @@ Add your SSH key from the previous step.
 
 Enter a name and create click create
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 

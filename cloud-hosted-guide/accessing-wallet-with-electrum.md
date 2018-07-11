@@ -12,10 +12,10 @@ To access your wallet with Electrum do the following:
 
 ![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/pEberprC6qUXQyrR-image-1526928576823.png) 4. Cllick Next
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 1. Enter a password for your electrum wallet ![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/4OsMaLlv583PJbBq-image-1526928854715.png)
 2. Great success
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
