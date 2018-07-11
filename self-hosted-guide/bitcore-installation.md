@@ -1,6 +1,10 @@
+---
+description: 'Javascript full-node,bitcore &  btcpd daemon.'
+---
+
 # Bitcore Installation
 
-## Clone Bitcore
+## Clone the BTCP Bitcore installer
 
 ```text
 git clone https://github.com/BTCPrivate/bitcore-install.git
