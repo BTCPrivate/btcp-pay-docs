@@ -12,11 +12,11 @@ We strongly recommend creating a new wallet using the official BTCP paper wallet
 **PRO TIP:** Once the page loads, unplug your computer from the internet. Save the generated data in an encrypted USB drive or print it and keep it in a safe location. Then close the browser and connect back to the internet once all the information is saved in a safe place. 
 {% endhint %}
 
-![](https://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/smgIRpDHliCr0ddH-image-1526540498750.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Then click on Wallet details, Reveal your new HD Wallet, and copy the master Xpub.
 
-![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/HOBjgcGTL5G7VXXP-image-1526936372683.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="info" %}
 **Action:** [Create Paper Wallet](https://paperwallet.btcprivate.org/#)

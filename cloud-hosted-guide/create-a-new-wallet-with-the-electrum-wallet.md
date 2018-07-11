@@ -7,9 +7,9 @@
 Create a new Electrum wallet address and  obtain the Xpub by clicking on:   
 wallet -&gt; information.
 
-![](https://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/Yr8nRDMw7YdGxfW6-image-1527575420269.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 and then copying the Xpub from there:
 
-![](https://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/1ggOJK0msR2rywUV-image-1527575457674.png)
+![](../.gitbook/assets/image%20%285%29.png)
 

@@ -1,8 +1,8 @@
 # Accessing Wallet with Electrum
 
-To access your wallet with electrum do the following:
+To access your wallet with Electrum do the following:
 
-1. download electtrum
+1. Download electtrum
 2. Open and click restore
 3. Select "I already have a seed"
 
@@ -12,10 +12,10 @@ To access your wallet with electrum do the following:
 
 ![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/pEberprC6qUXQyrR-image-1526928576823.png) 4. Cllick Next
 
-![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/RcIKfa7ZSvKinyUF-image-1526928811129.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 1. Enter a password for your electrum wallet ![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/4OsMaLlv583PJbBq-image-1526928854715.png)
 2. Great success
 
-![](http://docs.btcppay.com/uploads/images/gallery/2018-05-May/scaled-840-0/vANCCLpu7q43jHiH-image-1526929239129.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
