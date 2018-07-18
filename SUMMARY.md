@@ -13,4 +13,7 @@
   * [BTCP Store Server Installation](self-hosted-guide/bitcore-installation.md)
   * [Starting the Server](self-hosted-guide/testing-the-new-installation.md)
   * [Run service with systemctl](self-hosted-guide/run-service-with-systemctl.md)
+* [Integrations](integrations/README.md)
+  * [WooCommerce](integrations/woocommerce.md)
+  * [Wordpress](integrations/wordpress.md)
 
