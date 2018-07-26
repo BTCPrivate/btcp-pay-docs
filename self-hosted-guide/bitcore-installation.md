@@ -1,7 +1,3 @@
----
-description: 'Javascript full-node, bitcore &  btcpd daemon.'
----
-
 # BTCP Store Server Installation
 
 ## Clone the BTCP Bitcore installer
