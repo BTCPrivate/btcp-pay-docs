@@ -1,6 +1,7 @@
 # Table of contents
 
 * [BTCP Documentation](README.md)
+* [Introduction](introduction.md)
 * [Cloud Hosted Guide](cloud-hosted-guide/README.md)
   * [Create a New Wallet with the Paper Wallet](cloud-hosted-guide/create-a-new-wallet-with-the-paper-wallet.md)
   * [Getting the Xpub from an Electrum Wallet](cloud-hosted-guide/create-a-new-wallet-with-the-electrum-wallet.md)
