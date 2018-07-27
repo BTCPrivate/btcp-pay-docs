@@ -19,5 +19,9 @@ The installer will install everything you need to run the store demo application
 
 ![](../.gitbook/assets/setup.gif)
 
+{% hint style="success" %}
 Once everything is finished you should be ready to do a few tests to make sure everything is running properly.
+{% endhint %}
+
+
 

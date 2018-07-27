@@ -24,6 +24,10 @@ Then **right click** and click on **'Save as...'.**
 
 Then click on **'Save'.**
 
+{% hint style="success" %}
+You have now downloaded the BTCP Pay WordPress plugin!
+{% endhint %}
+
 ## Uploading the plugin to WordPress
 
 Next we will need to **upload** the plugin on WordPress.
@@ -47,6 +51,12 @@ Drag the .PHP file to the directory to upload it.
 ![](../.gitbook/assets/btcp10.png)
 
 You have now uploaded the plugin to WordPress!
+
+
+
+{% hint style="success" %}
+You have now uploaded the BTCP Pay WordPress plugin!
+{% endhint %}
 
 ## Activate the plugin
 

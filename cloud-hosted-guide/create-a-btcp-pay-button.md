@@ -16,7 +16,7 @@ Enter a Nickname for this wallet address and the Derived XPUB obtained from step
 
 ![](../.gitbook/assets/image.png)
 
-**Action:\*** Fill Out all the details
+**Action:** Fill Out all the details
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 
@@ -24,7 +24,7 @@ Enter a Nickname for this wallet address and the Derived XPUB obtained from step
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-**Action:\*** Fill Out all the details
+**Action:** Fill Out all the details
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
@@ -34,5 +34,5 @@ Once you are finish you will get your code to use and accept BTCP Payments.
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-Click here for examples of how to embed the code in different websites.
+
 

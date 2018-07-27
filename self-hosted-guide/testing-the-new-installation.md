@@ -18,7 +18,9 @@ You should see something like this
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
+{% hint style="success" %}
 🎉Congrats you now have your very own BTCP Explorer and server to verify and process payments. 
+{% endhint %}
 
 
 

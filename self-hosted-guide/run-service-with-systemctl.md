@@ -1,8 +1,6 @@
 # Run service with systemctl
 
-
-
-Short guide to run bitcore-node as a service. This guide will get updated once we have the service running with PM2.
+ This is a short guide to run bitcore-node as a service. This guide will get updated once we have the service running with PM2.
 
 #### Create bitcore-node service with systemctl
 

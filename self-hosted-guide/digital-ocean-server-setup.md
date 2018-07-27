@@ -6,12 +6,12 @@ Login to your Digital Ocean account and click create then select Droplet.
 
 ![](../.gitbook/assets/image%20%2818%29.png)
 
-Choose an Image. BTCP is currently optimize to run on Ubuntu with 2 GB of memory for $10/month. 
+Choose an Image. BTCP is currently optimized to run on Ubuntu with 2 GB of memory for $10/month. 
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
   
-Choose a location closer to where most of your buyers are from.
+Choose the location closest to where most of your clients are from.
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
@@ -80,4 +80,10 @@ Add your SSH key from the previous step.
 Enter a name and create click create
 
 ![](../.gitbook/assets/image%20%2816%29.png)
+
+{% hint style="success" %}
+You have now set up your own droplet, now we need to connect to the server and set up BitCore.
+{% endhint %}
+
+
 
