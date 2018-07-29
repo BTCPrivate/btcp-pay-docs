@@ -4,8 +4,8 @@ Official Repository
 
 {% embed data="{\"url\":\"https://github.com/BTCPrivate/btcp-widget/blob/master/plugins/btcp-pay-wordpress.php\",\"type\":\"link\",\"title\":\"BTCPrivate/btcp-widget\",\"description\":\"btcp-widget - JS widget for online shop payments\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/34813369?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
-{% hint style="danger" %}
-The WordPress plugin is **not complete**, therefore the plugin is not functional **yet**.
+{% hint style="warning" %}
+The plugin is still under heavy development. This guide will be updated make it easier to install in the future!
 {% endhint %}
 
 ## Downloading the plugin from GitHub
@@ -68,13 +68,87 @@ Firstly login to your target WordPress site and click on `Plugins`
 
 ![](../.gitbook/assets/btcp4%20%281%29.png)
 
-Next, look for a plugin called `Bitcoin Private for WooCommerce` and click on `Acitavte`
+Next, look for a plugin called `Bitcoin Private for WordPress` and click on `Acitavte`
 
-![](../.gitbook/assets/btcp11.png)
+![](../.gitbook/assets/imagen.png)
 
-{% hint style="danger" %}
-Complete docs coming soon!
+{% hint style="success" %}
+You have now activated the BTCP Pay WordPress plugin.
 {% endhint %}
 
+## Configuring the plugin
 
+{% hint style="danger" %}
+Create a BTCP Pay button now if you haven't already
+{% endhint %}
+
+{% page-ref page="../cloud-hosted-guide/create-a-btcp-pay-button.md" %}
+
+Once activated you will be directly taken to the configuation page.  Please paste the widget code from your account on the [btcppay.com](https://btcppay.com) site into the box, it should like something like this:
+
+```javascript
+<!-- BTCP Pay Widget // -->
+<!-- Set parameters and actions //-->
+<script id="btcp_widget_data">
+  var btcpWidget = {};
+  btcpWidget.data = {
+    "id"          : "btcp_widget",
+    "buttonData"  : "buy_A1_0",
+    "merchantid"  : "414",
+    "walletid"    : "2",
+    "amount"      : 123.45,
+    "itemid"      : "0",
+    "description" : "Pepperoni Pizza",
+    "transactiondetails" :
+      {
+          "size"    : "12 inch",
+          "crust"   : "stuffed",
+          "pan"     : "thin base"
+      }
+  };
+
+  btcpWidget.onPaymentSuccess = function(data) {
+    alert("Payment success! Data:\n\n" + JSON.stringify(data));
+  };
+
+  btcpWidget.onPaymentFail = function(data) {
+    alert("Payment failed! Reason: " + data.reason);
+  }
+</script>
+
+<!-- Load core functionality //-->
+<script src="//btcppay.com/widget.js" id="btcp_widget"></script>'
+```
+
+Once entered, click on **Save Changes.**
+
+![](../.gitbook/assets/imagen%20%281%29.png)
+
+{% hint style="success" %}
+You have now configured the BTCP Pay for WordPress plugin.
+{% endhint %}
+
+## Using the plugin
+
+### Within wordpress
+
+You can use shortcodes to activate the BTCP Pay screen:
+
+*  Fixed value used in the code you pasted: **\[btcp\_pay\_widget\]**
+* Attribute value use: **\[btcp\_pay\_widget amount="987.654"\]**
+
+### **Within code**
+
+You can use a PHP function to call the BTCP Pay screen.
+
+{% hint style="danger" %}
+**Do not use this method** unless you know how to.
+{% endhint %}
+
+* Fixed value use: **btcp\_pay\_widget\(\);**
+* Function argument value use: **btcp\_pay\_widget\(987.654\);**
+
+{% hint style="success" %}
+You can now use te plugin pay with BTCP Pay
+{% endhint %}
 

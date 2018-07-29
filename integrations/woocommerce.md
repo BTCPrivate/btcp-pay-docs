@@ -4,12 +4,6 @@ Official Repository
 
 {% embed data="{\"url\":\"https://github.com/BTCPrivate/btcp-widget/blob/master/plugins/btcp-pay-woocommerce.php\",\"type\":\"link\",\"title\":\"BTCPrivate/btcp-widget\",\"description\":\"btcp-widget - JS widget for online shop payments\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/34813369?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
-{% hint style="warning" %}
-The plugin is still under heavy development. This guide will be updated make it easier to install in the future!
-
-We are waiting for our plugin to get into the WordPress store!
-{% endhint %}
-
 ## Downloading the plugin from GitHub
 
 {% hint style="info" %}
@@ -72,13 +66,17 @@ Next, look for a plugin called `Bitcoin Private for WooCommerce` and click on `A
 
 Once you have clicked on activate the website will redirect you directly you the configuration page.
 
+{% hint style="success" %}
+You have now activated the BTCP Pay for WooCommerce plugin!
+{% endhint %}
+
+## Configure the plugin
+
 {% hint style="danger" %}
 Create a BTCP Pay button now if you haven't already
 {% endhint %}
 
 {% page-ref page="../cloud-hosted-guide/create-a-btcp-pay-button.md" %}
-
-## Configure the plugin
 
 To configure the plugin simply paste **btcpWidget.data from your widget.** It should look something like this:
 
