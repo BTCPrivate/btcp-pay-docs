@@ -70,7 +70,7 @@ Firstly login to your target WordPress site and click on `Plugins`
 
 Next, look for a plugin called `Bitcoin Private for WordPress` and click on `Acitavte`
 
-![](../.gitbook/assets/imagen.png)
+![](../.gitbook/assets/imagen%20%283%29.png)
 
 {% hint style="success" %}
 You have now activated the BTCP Pay WordPress plugin.
@@ -122,7 +122,7 @@ Once activated you will be directly taken to the configuation page.  Please past
 
 Once entered, click on **Save Changes.**
 
-![](../.gitbook/assets/imagen%20%281%29.png)
+![](../.gitbook/assets/imagen%20%284%29.png)
 
 {% hint style="success" %}
 You have now configured the BTCP Pay for WordPress plugin.
