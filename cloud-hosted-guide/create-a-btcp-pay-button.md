@@ -6,7 +6,7 @@ Login to your BTCP Pay account and navigate to your Dashboard then click "Add Wa
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-Enter a Nickname for this wallet address and the Derived XPUB obtained from step 1.
+Enter a Nickname for this wallet address and the Derived XPUB obtained from your wallet.
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
